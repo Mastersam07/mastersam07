@@ -19,7 +19,9 @@ I'm a highly skilled Mobile Engineer with 5 years of experience creating mobile 
 
 ## 🔭 What I'm working on 
 
-I'm working on [Smarty](https://github.com/mastersam07/smarty), a smart home mobile application concept app. It is an open-source project, with me collaborating with a designer to ensure consistency and that the design is replicated as accurately as possible. The goal of [smarty](https://github.com/mastersam07/smarty) is to show the power of flutter theme extensions and how to write effective themes for mobile applications. It is meant to serve as an example application.
+~I'm working on [Smarty](https://github.com/mastersam07/smarty), a smart home mobile application concept app. It is an open-source project, with me collaborating with a designer to ensure consistency and that the design is replicated as accurately as possible. The goal of [smarty](https://github.com/mastersam07/smarty) is to show the power of flutter theme extensions and how to write effective themes for mobile applications. It is meant to serve as an example application.~
+
+I'm working on [Evently](https://github.com/Mastersam07/evently), a ui kit for an event booking app. It is an open-source project whose goal is to show how to build mobile applications without relying on material or theme with its children. These implies that the styling and themes are custom made. It is meant to serve as an example application.
 
 ## 🌱 What I'm currently learning 
 
@@ -59,6 +61,7 @@ I enjoy discussing Flutter and sharing insights with others. If you're looking f
 I'm a big fan of open source and actively contribute to various open-source projects. Some of my notable contributions include the following:
 
 - [Smarty](https://github.com/Mastersam07/smarty) - A smart home mobile application
+- [Evently](https://github.com/mastersam07/smarty) - A ui kit for an event booking app
 - [Wa status saver](https://github.com/Mastersam07/wa_status_saver) - A whatsApp status saver/downloader with flutter
 - [Flag feature](https://github.com/Mastersam07/flag-feature) - App wide feature flag manager. Manages the availability status of each features on the app utilizing the power of Firebase Remote Config
 - [Coolicons](https://github.com/Mastersam07/coolicons) - The Coolicons icon pack for Flutter with over 400 icons available for your flutter project
