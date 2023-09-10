@@ -23,6 +23,7 @@ I'm a highly skilled Mobile Engineer with 5 years of experience creating mobile 
 
 I'm working on developer tools to better development processes. Some of these tools are:
 - [VsCode Codemagic](https://github.com/Mastersam07/vscode-codemagic): VSCode extension that provides linting and intellisense for codemagic yaml files.
+- [FigDart](https://github.com/Mastersam07/figdart): Figma plugin to convert figma styles to flutter code.
 - [Codemagic Brick](https://github.com/Mastersam07/codemagic-brick): A codemagic template for flutter projects
 > Others would be updated here as they come to light
 
