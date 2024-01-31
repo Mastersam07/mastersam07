@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# Hi there! 👋 I'm Samuel Abada, a Senior Flutter Engineer 
+# Hi there! 👋 I'm Samuel Abada, a Senior Flutter Engineer and a Google Developer Expert for Flutter and Dart
 
 I'm a highly skilled Mobile Engineer with 5 years of experience creating mobile apps for both Android and iOS platforms. I'm passionate about using technology to solve real-world problems and constantly exploring new ways to improve the user experience of the apps I build.
 
