@@ -15,18 +15,6 @@ Here are some ideas to get you started:
 
 # Hi there! 👋 I'm Samuel Abada, a Senior Flutter Engineer and a Google Developer Expert for Flutter and Dart
 
-I'm a highly skilled Mobile Engineer with 5 years of experience creating mobile apps for both Android and iOS platforms. I'm passionate about using technology to solve real-world problems and constantly exploring new ways to improve the user experience of the apps I build.
-
-## 🔭 What I'm working on 
-
-~I'm working on [Smarty](https://github.com/mastersam07/smarty), a smart home mobile application concept app. It is an open-source project, with me collaborating with a designer to ensure consistency and that the design is replicated as accurately as possible. The goal of [smarty](https://github.com/mastersam07/smarty) is to show the power of flutter theme extensions and how to write effective themes for mobile applications. It is meant to serve as an example application.~
-
-I'm working on developer tools to better development processes. Some of these tools are:
-- [VsCode Codemagic](https://github.com/Mastersam07/vscode-codemagic): VSCode extension that provides linting and intellisense for codemagic yaml files.
-- [FigDart](https://github.com/Mastersam07/figdart): Figma plugin to convert figma styles to flutter code.
-- [Codemagic Brick](https://github.com/Mastersam07/codemagic-brick): A codemagic template for flutter projects
-> Others would be updated here as they come to light
-
 ## 🌱 What I'm currently learning 
 
 I'm always learning! Right now, I'm focusing on Flutter and its ecosystem. I'm also interested in exploring other technologies in the near future(as long as it LGTM 😀).
@@ -50,13 +38,6 @@ I'm a Senior Flutter Engineer with deep technical expertise in:
 - Developed a Flutter plugin that has been downloaded and used by over [Number] developers worldwide. -->
 
 ## 📚 Articles and Talks
-
-I'm passionate about sharing my knowledge and experience with the Flutter community. Here are some of my recent articles and talks:
-
-- Securing your flutter project: The right way to set environment variables as compile-time variables - [Medium](https://medium.com/itnext/secure-your-flutter-project-the-right-way-to-set-environment-variables-with-compile-time-variables-67c3163ff9f4), April 9 2023
-- Dressing Your Flutter Widgets with Theme Extension - [Flutter forward extended Enugu](https://youtu.be/PcC_rygZ4ME), April 8 2023
-- Supercharging Navigation 1.0 in Flutter Apps - Devfest Lagos, Nov 26 2022
-- Flutter Tooling: Performance Profiling - Devfest Abuja, Oct 22 2022
 
 I enjoy discussing Flutter and sharing insights with others. If you're looking for a speaker or panellist for your event, please contact me!
 
