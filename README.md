@@ -46,11 +46,11 @@ I enjoy discussing Flutter and sharing insights with others. If you're looking f
 I'm a big fan of open source and actively contribute to various open-source projects. Some of my notable contributions include the following:
 
 - [Smarty](https://github.com/Mastersam07/smarty) - A smart home mobile application
-- [Evently](https://github.com/mastersam07/smarty) - A ui kit for an event booking app
+- [FigDart](https://github.com/mastersam07/figdart) - Convert Figma styles to Flutter effortlessly
 - [Wa status saver](https://github.com/Mastersam07/wa_status_saver) - A whatsApp status saver/downloader with flutter
-- [Flag feature](https://github.com/Mastersam07/flag-feature) - App wide feature flag manager. Manages the availability status of each features on the app utilizing the power of Firebase Remote Config
 - [Coolicons](https://github.com/Mastersam07/coolicons) - The Coolicons icon pack for Flutter with over 400 icons available for your flutter project
-- [Livechat](https://github.com/Mastersam07/livechat) - A livechat plugin for embedding mobile chat window in your mobile application.
+- [Custom Pin Screen](https://github.com/Mastersam07/custom_pin_screen) - A flutter package to add screens with custom keyboards and pins.
+- [Pub Studio](https://github.com/Mastersam07/pub-studio) - Manage your flutter/dart packages directly from the editor
 
 I believe in the power of collaboration and am always excited to contribute to projects that align with my values.
 
