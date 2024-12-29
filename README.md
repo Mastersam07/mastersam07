@@ -24,7 +24,7 @@ I'm a Senior Flutter Engineer with deep technical expertise in:
 
 ## 📚 Articles and Talks
 
-I enjoy discussing Flutter and sharing insights with others. If you're looking for a speaker or panellist for your event, please contact me!
+I enjoy discussing Flutter, mobile engineering, tooling and sharing insights with others. If you're looking for a speaker or panelist for your event, please contact me!
 
 ## ❤️ Fan of Open Source 
 
@@ -32,10 +32,11 @@ I'm a big fan of open source and actively contribute to various open-source proj
 
 - [Smarty](https://github.com/Mastersam07/smarty) - A smart home mobile application
 - [FigDart](https://github.com/mastersam07/figdart) - Convert Figma styles to Flutter effortlessly
+- [Maestro Workbench](https://github.com/Mastersam07/maestro-workbench) - IntelliSense, syntax highlighting, formatting, test execution, and output visualization for Maestro YAML files
+- [Pub Studio](https://github.com/Mastersam07/pub-studio) - Manage your flutter/dart packages directly from the editor
 - [Wa status saver](https://github.com/Mastersam07/wa_status_saver) - A whatsApp status saver/downloader with flutter
 - [Coolicons](https://github.com/Mastersam07/coolicons) - The Coolicons icon pack for Flutter with over 400 icons available for your flutter project
 - [Custom Pin Screen](https://github.com/Mastersam07/custom_pin_screen) - A flutter package to add screens with custom keyboards and pins.
-- [Pub Studio](https://github.com/Mastersam07/pub-studio) - Manage your flutter/dart packages directly from the editor
 
 I believe in the power of collaboration and am always excited to contribute to projects that align with my values.
 
